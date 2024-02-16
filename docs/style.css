@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'VCR';
+    src: url("web_assets/vcr.ttf");
+}
+
+body {
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+}
